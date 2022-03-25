@@ -12,31 +12,19 @@ It's easy to use. This android botnet work without port forwarding, vps and andr
 
 ## Features
 
-* ***Retrieve Contact***
-
-* ***Retrieve SMS***
-
-* ***Retrieve running Services***
-
-* ***Retrieve Device Location (:worried: Only work when the app is open on newer devices)***
-
-* ***Retrieve Call Logs***
-
-* ***Run Shell Command***
-
-* ***Change Wallpaper***
-
-* ***Send SMS***
-
-* ***Make Call***
-
-* ***Get Installed Apps***
-
-* ***Download File***
-
-* ***Read Notification***
-
-* ***Auto-Start***
+* Retrieve Contact
+* Retrieve SMS
+* Retrieve running Services
+* Retrieve Device Location (:worried: Only work when the app is open on newer devices)
+* Retrieve Call Logs
+* Run Shell Command
+* Change Wallpaper
+* Send SMS
+* Make Call
+* Get Installed Apps
+* Download File
+* Read Notification
+* Auto-Start
 
 ## Tasted on
 

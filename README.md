@@ -1,10 +1,6 @@
 <p align="center"><a href="https://github.com/botolmehedi/BDROID"><img title="BDROID" src="https://i.ibb.co/PgFYh4K/20220325-110329.png"></a>
 
-<p align="center">
-
-<a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/By-Botol--Baba-red.svg?style=for-the-badge&logo=github"></a>
-
-</p>
+<p align="center"><a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/By-Botol--Baba-red.svg?style=for-the-badge&logo=github"></a></p>
 
 <h1 align="center">B-DROID BOTNET</h1>
 

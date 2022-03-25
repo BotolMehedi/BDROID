@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.101b48ee.css",
+    "main.js": "/static/js/main.58405be5.js",
+    "static/js/787.e649ba96.chunk.js": "/static/js/787.e649ba96.chunk.js",
+    "static/media/Cyberattack-cuate.svg": "/static/media/Cyberattack-cuate.a120d44c86141a29d90b578255e3ea3a.svg",
+    "static/media/2ee9fc9d-72f3-41a9-ae0b-387aa1f6cbdd (1).jpeg": "/static/media/2ee9fc9d-72f3-41a9-ae0b-387aa1f6cbdd (1).ad1baec92f1a882ed917.jpeg",
+    "index.html": "/index.html",
+    "main.101b48ee.css.map": "/static/css/main.101b48ee.css.map",
+    "main.58405be5.js.map": "/static/js/main.58405be5.js.map",
+    "787.e649ba96.chunk.js.map": "/static/js/787.e649ba96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.101b48ee.css",
+    "static/js/main.58405be5.js"
+  ]
+}

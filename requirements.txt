@@ -1,0 +1,4 @@
+fastapi
+deta
+python-multipart
+fastapi-jwt-auth

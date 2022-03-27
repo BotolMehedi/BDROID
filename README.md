@@ -81,4 +81,4 @@ Android 5 to Android 12. Working Without Any Error.
 
 ### Warning
 
-This is reCoded/Modified/Shortcut Version of "TEARDROID by HackSec". I am not promoting any illegal activity here. This is purely for educational purpose only. i am not responsible if you use it for illegal purpose.
+This is a reCoded/Modified/Shortcut Version of "TEARDROID by HackSec". I am not promoting any illegal activity here. This is purely for educational purpose only. i am not responsible if you use it for illegal purpose.

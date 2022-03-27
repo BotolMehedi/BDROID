@@ -74,11 +74,11 @@ Android 5 to Android 12. Working Without Any Error.
 * Instagram : [Follow Me](https://www.instagram.com/MehtanOfficial)
 * Twitter : [Follow Me](https://www.twitter.com/botolbaba)
 
-# ThanksTo
+## ThanksTo
 ```
 • HackSec❤TearDroid
 ```
 
-### Warning
+## Warning
 
-This is a reCoded/Modified/Shortcut Version of "TEARDROID by HackSec". I am not promoting any illegal activity here. This is purely for educational purpose only. i am not responsible if you use it for illegal purpose.
+***This is a reCoded/Modified/Shortcut Version of "TEARDROID by HackSec". I am not promoting any illegal activity here. This is purely for educational purpose only. i am not responsible if you use it for illegal purpose.***

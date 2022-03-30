@@ -63,7 +63,9 @@ Android 5 to Android 12. Working Without Any Error.
 <img title="Payload Setup Bdroid" src="https://user-images.githubusercontent.com/64999484/160757635-2260efb1-f0bf-4737-a3f3-780fb5409c1b.gif"/>
 
 ## Working Demo Video :
-* [DEMO VIDEO TUTORIAL](https://drive.google.com/file/d/14mVcHO-ME7QGXcQGvCAw7kVPhYEn-cY5/view?usp=drivesdk)
+* [DEMO VIDEO TUTORIAL LINK](https://drive.google.com/file/d/14mVcHO-ME7QGXcQGvCAw7kVPhYEn-cY5/view?usp=drivesdk)
+
+ https://user-images.githubusercontent.com/64999484/160759767-8ece8b43-6aee-40cf-8698-73922d248bf0.mp4
 
 ## [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/botolbaba)
 * BTC : 17CdkUHrPzoWg3B2TX8Nm7YkYZX7wreFQw

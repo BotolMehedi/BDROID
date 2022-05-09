@@ -29,7 +29,7 @@ It's easy to use. This android botnet work without port forwarding, vps and andr
 
 ## Tasted on
 
-Android 5 to Android 12. Working Without Any Error.
+Android 5 to Android 10. Working Without Any Error.
 
 ## Setup Tutorial [CONTROL PANEL]
 

@@ -9,7 +9,7 @@
 
 ## About
 
-It's easy to use. This android botnet work without port forwarding, vps and android studio. This is a fully fresh & new undetectable Android Botnet. This botnet work on Android 5 to 12 Any Devices.
+It's easy to use. This android botnet work without port forwarding, vps and android studio. This is a fully fresh & new undetectable Android Botnet. This botnet work on Android 5 to 10 Any Devices.
 
 ## Features
 
